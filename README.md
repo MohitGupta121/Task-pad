@@ -1,5 +1,10 @@
 ![](media/header_dark.png)
 
+
+![slide-3](https://github.com/MohitGupta121/Task-pad/assets/76530270/0f65d234-2b77-46fa-924d-f349bde9dac3)
+
+
+
 # **Taskify** 
 
 **Taskify** is an app to manage your daily tasks and boost your productivity
