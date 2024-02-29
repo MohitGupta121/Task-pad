@@ -1,10 +1,6 @@
 ![](media/header_dark.png)
 
 
-![slide-3](https://github.com/MohitGupta121/Task-pad/assets/76530270/0f65d234-2b77-46fa-924d-f349bde9dac3)
-
-
-
 # **Taskify** 
 
 **Taskify** is an app to manage your daily tasks and boost your productivity
@@ -65,9 +61,6 @@ Taskify lets you start a timer ⌚ to track the time you take completing a task.
 | ![](media/ongoing_dark.jpg)  | ![](media/upcoming_dark.jpg) | ![](media/completed_dark.jpg)    |
 | ![](media/add_task_dark.jpg) | ![](media/stats_dark.jpg)    | ![](media/profile_dark.jpg)      |
 |![](media/menu_dark.jpg)  |![](media/timer_dark.jpg)  |     |
-
-
-<img width="674" alt="Screenshot 2024-01-29 at 5 07 16 PM" src="https://github.com/MohitGupta121/Task-pad/assets/76530270/6f188135-e7d9-427e-81bd-ea996e1ad250">
 
 
 ## Built With 🛠
